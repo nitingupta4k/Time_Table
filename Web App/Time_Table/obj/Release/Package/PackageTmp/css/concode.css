@@ -1,0 +1,350 @@
+.concode-select .flag {
+	width: 16px;
+	height: 11px;
+	background: url("../img/flags.png")
+}
+.concode-select .zw{background-position:0 0}
+.concode-select .zm{background-position:-16px 0}
+.concode-select .za{background-position:0 -11px}
+.concode-select .yt{background-position:-16px -11px}
+.concode-select .ye{background-position:-32px 0}
+.concode-select .ws{background-position:-32px -11px}
+.concode-select .wf{background-position:0 -22px}
+.concode-select .vu{background-position:-32px -22px}
+.concode-select .vn{background-position:0 -33px}
+.concode-select .vi{background-position:-16px -33px}
+.concode-select .vg{background-position:-32px -33px}
+.concode-select .ve{background-position:-48px 0}
+.concode-select .vc{background-position:-48px -11px}
+.concode-select .va{background-position:-48px -22px}
+.concode-select .uz{background-position:-48px -33px}
+.concode-select .uy{background-position:0 -44px}
+.concode-select .us{background-position:-16px -44px}
+.concode-select .um{background-position:-16px -44px}
+.concode-select .ug{background-position:-32px -44px}
+.concode-select .ua{background-position:-48px -44px}
+.concode-select .tz{background-position:-64px 0}
+.concode-select .tw{background-position:-64px -11px}
+.concode-select .tv{background-position:-64px -22px}
+.concode-select .tt{background-position:-64px -33px}
+.concode-select .tr{background-position:-64px -44px}
+.concode-select .to{background-position:0 -55px}
+.concode-select .tn{background-position:-16px -55px}
+.concode-select .tm{background-position:-32px -55px}
+.concode-select .tl{background-position:-48px -55px}
+.concode-select .tk{background-position:-64px -55px}
+.concode-select .tj{background-position:0 -66px}
+.concode-select .th{background-position:-16px -66px}
+.concode-select .tg{background-position:-32px -66px}
+.concode-select .tf{background-position:-48px -66px}
+.concode-select .td{background-position:-64px -66px}
+.concode-select .tc{background-position:-80px 0}
+.concode-select .sz{background-position:-80px -11px}
+.concode-select .sy{background-position:-80px -22px}
+.concode-select .sx{background-position:-80px -33px}
+.concode-select .sv{background-position:-80px -44px}
+.concode-select .st{background-position:-80px -55px}
+.concode-select .ss{background-position:-80px -66px}
+.concode-select .sr{background-position:0 -77px}
+.concode-select .so{background-position:-16px -77px}
+.concode-select .sn{background-position:-32px -77px}
+.concode-select .sm{background-position:-48px -77px}
+.concode-select .sl{background-position:-64px -77px}
+.concode-select .sk{background-position:-80px -77px}
+.concode-select .si{background-position:-96px 0}
+.concode-select .sh{background-position:-96px -11px}
+.concode-select .sg{background-position:-96px -22px}
+.concode-select .se{background-position:-96px -33px}
+.concode-select .sd{background-position:-96px -44px}
+.concode-select .sc{background-position:-96px -66px}
+.concode-select .sb{background-position:-96px -77px}
+.concode-select .sa{background-position:0 -88px}
+.concode-select .rw{background-position:-16px -88px}
+.concode-select .ru{background-position:-32px -88px}
+.concode-select .rs{background-position:-48px -88px}
+.concode-select .ro{background-position:-64px -88px}
+.concode-select .qa{background-position:-80px -88px}
+.concode-select .py{background-position:-96px -88px}
+.concode-select .pw{background-position:0 -99px}
+.concode-select .pt{background-position:-16px -99px}
+.concode-select .ps{background-position:-32px -99px}
+.concode-select .pr{background-position:-48px -99px}
+.concode-select .pn{background-position:-64px -99px}
+.concode-select .pm{background-position:-80px -99px}
+.concode-select .pl{background-position:-96px -99px}
+.concode-select .pk{background-position:-112px 0}
+.concode-select .ph{background-position:-112px -11px}
+.concode-select .pg{background-position:-112px -22px}
+.concode-select .pf{background-position:-112px -33px}
+.concode-select .pe{background-position:-112px -44px}
+.concode-select .pa{background-position:-112px -55px}
+.concode-select .om{background-position:-112px -66px}
+.concode-select .nz{background-position:-112px -77px}
+.concode-select .nu{background-position:-112px -88px}
+.concode-select .nr{background-position:-112px -99px}
+.concode-select .no{background-position:0 -110px}
+.concode-select .bv{background-position:0 -110px}
+.concode-select .sj{background-position:0 -110px}
+.concode-select .nl{background-position:-16px -110px}
+.concode-select .ni{background-position:-32px -110px}
+.concode-select .ng{background-position:-48px -110px}
+.concode-select .nf{background-position:-64px -110px}
+.concode-select .ne{background-position:-80px -110px}
+.concode-select .nc{background-position:-96px -110px}
+.concode-select .na{background-position:-112px -110px}
+.concode-select .mz{background-position:-128px 0}
+.concode-select .my{background-position:-128px -11px}
+.concode-select .mx{background-position:-128px -22px}
+.concode-select .mw{background-position:-128px -33px}
+.concode-select .mv{background-position:-128px -44px}
+.concode-select .mu{background-position:-128px -55px}
+.concode-select .mt{background-position:-128px -66px}
+.concode-select .ms{background-position:-128px -77px}
+.concode-select .mr{background-position:-128px -88px}
+.concode-select .mq{background-position:-128px -99px}
+.concode-select .mp{background-position:-128px -110px}
+.concode-select .mo{background-position:0 -121px}
+.concode-select .mn{background-position:-16px -121px}
+.concode-select .mm{background-position:-32px -121px}
+.concode-select .ml{background-position:-48px -121px}
+.concode-select .mk{background-position:-64px -121px}
+.concode-select .mh{background-position:-80px -121px}
+.concode-select .mg{background-position:-96px -121px}
+.concode-select .me{background-position:0 -132px;height:12px}
+.concode-select .md{background-position:-112px -121px}
+.concode-select .mc{background-position:-128px -121px}
+.concode-select .ma{background-position:-16px -132px}
+.concode-select .ly{background-position:-32px -132px}
+.concode-select .lv{background-position:-48px -132px}
+.concode-select .lu{background-position:-64px -132px}
+.concode-select .lt{background-position:-80px -132px}
+.concode-select .ls{background-position:-96px -132px}
+.concode-select .lr{background-position:-112px -132px}
+.concode-select .lk{background-position:-128px -132px}
+.concode-select .li{background-position:-144px 0}
+.concode-select .lc{background-position:-144px -11px}
+.concode-select .lb{background-position:-144px -22px}
+.concode-select .la{background-position:-144px -33px}
+.concode-select .kz{background-position:-144px -44px}
+.concode-select .ky{background-position:-144px -55px}
+.concode-select .kw{background-position:-144px -66px}
+.concode-select .kr{background-position:-144px -77px}
+.concode-select .kp{background-position:-144px -88px}
+.concode-select .kn{background-position:-144px -99px}
+.concode-select .km{background-position:-144px -110px}
+.concode-select .ki{background-position:-144px -121px}
+.concode-select .kh{background-position:-144px -132px}
+.concode-select .kg{background-position:0 -144px}
+.concode-select .ke{background-position:-16px -144px}
+.concode-select .jp{background-position:-32px -144px}
+.concode-select .jo{background-position:-48px -144px}
+.concode-select .jm{background-position:-64px -144px}
+.concode-select .je{background-position:-80px -144px}
+.concode-select .it{background-position:-96px -144px}
+.concode-select .is{background-position:-112px -144px}
+.concode-select .ir{background-position:-128px -144px}
+.concode-select .iq{background-position:-144px -144px}
+.concode-select .io{background-position:-160px 0}
+.concode-select .in{background-position:-160px -11px}
+.concode-select .im{background-position:-160px -22px;height:9px}
+.concode-select .il{background-position:-160px -31px}
+.concode-select .ie{background-position:-160px -42px}
+.concode-select .id{background-position:-160px -53px}
+.concode-select .hu{background-position:-160px -64px}
+.concode-select .ht{background-position:-160px -75px}
+.concode-select .hr{background-position:-160px -86px}
+.concode-select .hn{background-position:-160px -97px}
+.concode-select .hk{background-position:-160px -108px}
+.concode-select .gy{background-position:-160px -119px}
+.concode-select .gw{background-position:-160px -130px}
+.concode-select .gu{background-position:-160px -141px}
+.concode-select .gt{background-position:0 -155px}
+.concode-select .gs{background-position:-16px -155px}
+.concode-select .gr{background-position:-32px -155px}
+.concode-select .gq{background-position:-48px -155px}
+.concode-select .gp{background-position:-64px -155px}
+.concode-select .gn{background-position:-80px -155px}
+.concode-select .gm{background-position:-96px -155px}
+.concode-select .gl{background-position:-112px -155px}
+.concode-select .gi{background-position:-128px -155px}
+.concode-select .gh{background-position:-144px -155px}
+.concode-select .gg{background-position:-160px -155px}
+.concode-select .ge{background-position:-176px 0}
+.concode-select .gd{background-position:-176px -11px}
+.concode-select .gb{background-position:-176px -22px}
+.concode-select .ga{background-position:-176px -33px}
+.concode-select .fr{background-position:-176px -44px}
+.concode-select .gf{background-position:-176px -44px}
+.concode-select .re{background-position:-176px -44px}
+.concode-select .mf{background-position:-176px -44px}
+.concode-select .bl{background-position:-176px -44px}
+.concode-select .fo{background-position:-176px -55px}
+.concode-select .fm{background-position:-176px -66px}
+.concode-select .fk{background-position:-176px -77px}
+.concode-select .fj{background-position:-176px -88px}
+.concode-select .fi{background-position:-176px -99px}
+.concode-select .eu{background-position:-176px -121px}
+.concode-select .et{background-position:-176px -132px}
+.concode-select .es{background-position:-176px -143px}
+.concode-select .er{background-position:-176px -154px}
+.concode-select .eh{background-position:-16px -166px}
+.concode-select .eg{background-position:-32px -166px}
+.concode-select .ee{background-position:-48px -166px}
+.concode-select .ec{background-position:-64px -166px}
+.concode-select .dz{background-position:-80px -166px}
+.concode-select .do{background-position:-96px -166px}
+.concode-select .dm{background-position:-112px -166px}
+.concode-select .dk{background-position:-128px -166px}
+.concode-select .dj{background-position:-144px -166px}
+.concode-select .de{background-position:-160px -166px}
+.concode-select .cz{background-position:-176px -166px}
+.concode-select .cy{background-position:0 -177px}
+.concode-select .cx{background-position:-16px -177px}
+.concode-select .cw{background-position:-32px -177px}
+.concode-select .cv{background-position:-48px -177px}
+.concode-select .cu{background-position:-64px -177px}
+.concode-select .cs{background-position:-80px -177px}
+.concode-select .cr{background-position:-96px -177px}
+.concode-select .co{background-position:-112px -177px}
+.concode-select .cn{background-position:-128px -177px}
+.concode-select .cm{background-position:-144px -177px}
+.concode-select .cl{background-position:-160px -177px}
+.concode-select .ck{background-position:-176px -177px}
+.concode-select .ci{background-position:-192px 0}
+.concode-select .cg{background-position:-192px -11px}
+.concode-select .cf{background-position:-192px -22px}
+.concode-select .cd{background-position:-192px -33px}
+.concode-select .cc{background-position:-192px -44px}
+.concode-select .ca{background-position:-192px -66px}
+.concode-select .bz{background-position:-192px -77px}
+.concode-select .by{background-position:-192px -88px}
+.concode-select .bw{background-position:-192px -99px}
+.concode-select .bt{background-position:-192px -110px}
+.concode-select .bs{background-position:-192px -121px}
+.concode-select .br{background-position:-192px -132px}
+.concode-select .bq{background-position:-192px -143px}
+.concode-select .bo{background-position:-192px -154px}
+.concode-select .bn{background-position:-192px -165px}
+.concode-select .bm{background-position:-192px -176px}
+.concode-select .bj{background-position:0 -188px}
+.concode-select .bi{background-position:-16px -188px}
+.concode-select .bh{background-position:-32px -188px}
+.concode-select .bg{background-position:-48px -188px}
+.concode-select .bf{background-position:-64px -188px}
+.concode-select .be{background-position:-80px -188px}
+.concode-select .bd{background-position:-96px -188px}
+.concode-select .bb{background-position:-112px -188px}
+.concode-select .ba{background-position:-128px -188px}
+.concode-select .az{background-position:-144px -188px}
+.concode-select .ax{background-position:-160px -188px}
+.concode-select .aw{background-position:-176px -188px}
+.concode-select .au{background-position:-192px -188px}
+.concode-select .hm{background-position:-192px -188px}
+.concode-select .at{background-position:-208px 0}
+.concode-select .as{background-position:-208px -11px}
+.concode-select .ar{background-position:-208px -22px}
+.concode-select .ao{background-position:-208px -33px}
+.concode-select .an{background-position:-208px -44px}
+.concode-select .am{background-position:-208px -55px}
+.concode-select .al{background-position:-208px -66px}
+.concode-select .ai{background-position:-208px -77px}
+.concode-select .ag{background-position:-208px -88px}
+.concode-select .af{background-position:-208px -99px}
+.concode-select .ae{background-position:-208px -110px}
+.concode-select .ad{background-position:-208px -121px}
+.concode-select .np{background-position:-208px -132px}
+.concode-select .ch{background-position:-208px -143px}
+
+.concode-select {
+	position:relative;
+	display:inline-block;
+}
+.concode-select * {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.concode-select .hide{display:none}
+.concode-select .v-hide{visibility:hidden}
+.concode-select > input {
+	position: relative;
+	z-index: 0;
+	margin-top: 0 !important;
+	margin-bottom: 0 !important;
+	padding-left: 44px;
+}
+.concode-select .flag-dropdown {
+	position: absolute;
+	top: 0;
+	bottom: 0
+}
+.concode-select .flag-dropdown:hover{cursor:pointer}
+.concode-select .flag-dropdown:hover .selected-flag {
+	background-color: #000;
+	/* @alternate */
+	background-color: rgba(0,0,0,0.05);
+}
+.concode-select input[disabled]+.flag-dropdown:hover{cursor:default}
+.concode-select input[disabled]+.flag-dropdown:hover .selected-flag{background-color:transparent}
+.concode-select .selected-flag {
+	z-index: 1;
+	position: relative;
+	width: 38px;
+	height: 100%;
+	padding: 0 0 0 8px
+}
+.concode-select .selected-flag .flag {
+	position: absolute;
+	top: 50%;
+	margin-top: -5px
+}
+.concode-select .selected-flag .arrow {
+	position: relative;
+	top: 50%;
+	margin-top: -2px;
+	left: 20px;
+	width: 0;
+	height: 0;
+	border-left: 3px solid transparent;
+	border-right: 3px solid transparent;
+	border-top: 4px solid #555
+}
+.concode-select .selected-flag .arrow.up {
+	border-top: none;
+	border-bottom: 4px solid #555
+}
+.concode-select .concode-list {
+	list-style: none;
+	position: absolute;
+	z-index:3; 
+	padding:0;
+	margin: 0 0 0 -1px;
+	box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+	background-color: white;
+	border: 1px solid #ccc;
+	width: 100px;
+	max-height: 150px;
+	overflow-y: scroll
+}
+.concode-select .concode-list .flag {
+	display: inline-block
+}
+.concode-select .concode-list .divider {
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid #ccc
+}
+.concode-select .concode-list .concode {
+	line-height: 11px;
+	padding: 7px 10px
+}
+.concode-select .concode-list .concode .dial-code{color:#999}
+.concode-select .concode-list .concode .highlight {
+	background-color:#000;
+	/* @alternate */
+	background-color:rgba(0,0,0,0.05);
+}
+.concode-select .concode-list .flag,.concode-select .concode-list .concode-name{margin-right:6px}
+.concode-select.inside .flag-dropdown{padding:1px}
+.concode-select.inside input[type="text"],.concode-select.inside input[type="tel"]{padding-left:44px;margin-left:0}
+.concode-select.outside input[type="text"],.concode-select.outside input[type="tel"]{border:none;margin-left:38px}

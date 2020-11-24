@@ -1,0 +1,392 @@
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\csc.exe
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\csc.exe.config
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\csc.rsp
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\csi.exe
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\csi.exe.config
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\csi.rsp
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.AppContext.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Console.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.IO.Compression.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Security.Claims.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.ValueTuple.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\vbc.exe
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\vbc.exe.config
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\vbc.rsp
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\VBCSCompiler.exe
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Time_Table.dll.config
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Time_Table.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Time_Table.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\BussinessLogic.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\ClassLibrary1.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Data Access Layer.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\BussinessLogic.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\ClassLibrary1.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Data Access Layer.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\obj\Debug\Time_Table.csprojResolveAssemblyReference.cache
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\obj\Debug\Time_Table.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\obj\Debug\Time_Table.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Newtonsoft.Json.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Swashbuckle.Core.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\System.Net.Http.Formatting.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\System.Web.Http.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\System.Web.Http.WebHost.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\WebActivatorEx.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\Newtonsoft.Json.xml
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\System.Net.Http.Formatting.xml
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\System.Web.Http.xml
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Time_Table\bin\System.Web.Http.WebHost.xml
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csc.exe
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csc.exe.config
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csc.rsp
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csi.exe
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csi.exe.config
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csi.rsp
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.AppContext.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Console.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.Compression.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Claims.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Threading.Thread.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.ValueTuple.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\vbc.exe
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\vbc.exe.config
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\vbc.rsp
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\VBCSCompiler.exe
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Time_Table.dll.config
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Time_Table.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Time_Table.pdb
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\BussinessLogic.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\ClassLibrary1.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Data Access Layer.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Newtonsoft.Json.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Swashbuckle.Core.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\System.Net.Http.Formatting.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\System.Web.Http.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\System.Web.Http.WebHost.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\WebActivatorEx.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\BussinessLogic.pdb
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\BussinessLogic.dll.config
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\ClassLibrary1.pdb
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Data Access Layer.pdb
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\Newtonsoft.Json.xml
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\System.Net.Http.Formatting.xml
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\System.Web.Http.xml
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\bin\System.Web.Http.WebHost.xml
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csprojAssemblyReference.cache
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csproj.CoreCompileInputs.cache
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csproj.CopyComplete
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.dll
+C:\Users\SP\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csc.exe
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csc.exe.config
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csc.rsp
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csi.exe
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csi.exe.config
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\csi.rsp
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.AppContext.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Console.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\vbc.exe
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\vbc.exe.config
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\vbc.rsp
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Time_Table.dll.config
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Time_Table.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Time_Table.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\BussinessLogic.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\ClassLibrary1.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Data Access Layer.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Newtonsoft.Json.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Swashbuckle.Core.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\System.Net.Http.Formatting.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\System.Web.Http.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\System.Web.Http.WebHost.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\WebActivatorEx.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\BussinessLogic.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\BussinessLogic.dll.config
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\ClassLibrary1.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Data Access Layer.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\Newtonsoft.Json.xml
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\System.Net.Http.Formatting.xml
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\System.Web.Http.xml
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\bin\System.Web.Http.WebHost.xml
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csprojAssemblyReference.cache
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csproj.CopyComplete
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Time_Table\obj\Debug\Time_Table.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\csc.exe
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\csc.exe.config
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\csc.rsp
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\csi.exe
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\csi.exe.config
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\csi.rsp
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.AppContext.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Console.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.IO.Compression.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Claims.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Threading.Thread.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.ValueTuple.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\vbc.exe
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\vbc.exe.config
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\vbc.rsp
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\VBCSCompiler.exe
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Time_Table.dll.config
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Time_Table.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Time_Table.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\BussinessLogic.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\ClassLibrary1.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Data Access Layer.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Newtonsoft.Json.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Swashbuckle.Core.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\System.Net.Http.Formatting.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\System.Web.Http.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\System.Web.Http.WebHost.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\WebActivatorEx.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\BussinessLogic.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\BussinessLogic.dll.config
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\ClassLibrary1.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Data Access Layer.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\Newtonsoft.Json.xml
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\System.Net.Http.Formatting.xml
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\System.Web.Http.xml
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\bin\System.Web.Http.WebHost.xml
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csprojAssemblyReference.cache
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csproj.CoreCompileInputs.cache
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\obj\Debug\Time_Table.csproj.CopyComplete
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\obj\Debug\Time_Table.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Time_Table\obj\Debug\Time_Table.pdb
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\csc.exe
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\csc.exe.config
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\csc.rsp
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\csi.exe
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\csi.exe.config
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\csi.rsp
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.AppContext.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Console.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.IO.Compression.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.IO.Pipes.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Security.Claims.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Threading.Thread.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.ValueTuple.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Xml.XPath.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\vbc.exe
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\vbc.exe.config
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\vbc.rsp
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\VBCSCompiler.exe
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Time_Table.dll.config
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Time_Table.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Time_Table.pdb
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\BussinessLogic.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\ClassLibrary1.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Data Access Layer.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Newtonsoft.Json.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Swashbuckle.Core.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\System.Net.Http.Formatting.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\System.Web.Http.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\System.Web.Http.WebHost.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\WebActivatorEx.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\BussinessLogic.pdb
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\BussinessLogic.dll.config
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\ClassLibrary1.pdb
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Data Access Layer.pdb
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\Newtonsoft.Json.xml
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\System.Net.Http.Formatting.xml
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\System.Web.Http.xml
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\bin\System.Web.Http.WebHost.xml
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\obj\Debug\Time_Table.csprojAssemblyReference.cache
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\obj\Debug\Time_Table.csproj.CoreCompileInputs.cache
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\obj\Debug\Time_Table.csproj.CopyComplete
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\obj\Debug\Time_Table.dll
+C:\Users\eipntgu\Documents\Time_Table\Web App\Time_Table\obj\Debug\Time_Table.pdb

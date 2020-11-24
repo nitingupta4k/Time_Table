@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="myConnectionString-Web.config Connection String" description="myConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=sisaraktimetable.database.windows.net;Initial Catalog=time_Table;Persist Security Info=True;User ID=siarak;Password=!Q2w3e4r5t" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\SP\\Documents\\Visual\ Studio\ 2017\\Projects\\Time_Table\\Time_Table\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='myConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

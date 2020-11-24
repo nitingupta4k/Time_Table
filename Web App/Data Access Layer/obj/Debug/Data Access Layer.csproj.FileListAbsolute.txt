@@ -1,0 +1,46 @@
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\bin\Debug\ClassLibrary1.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\bin\Debug\ClassLibrary1.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\obj\Debug\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\ClassLibrary1.dll
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.Permissions.dll
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\ClassLibrary1.pdb
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csprojAssemblyReference.cache
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\SP\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\ClassLibrary1.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.Permissions.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\bin\Debug\ClassLibrary1.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csprojAssemblyReference.cache
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\bin\Debug\Data Access Layer.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\bin\Debug\ClassLibrary1.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.AccessControl.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.Permissions.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\bin\Debug\ClassLibrary1.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csprojAssemblyReference.cache
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\Data Access Layer\obj\Debug\Data Access Layer.pdb

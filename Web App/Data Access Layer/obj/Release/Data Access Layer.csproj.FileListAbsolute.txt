@@ -1,0 +1,7 @@
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\bin\Release\Data Access Layer.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\bin\Release\Data Access Layer.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\bin\Release\ClassLibrary1.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\bin\Release\ClassLibrary1.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\obj\Release\Data Access Layer.csprojResolveAssemblyReference.cache
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\obj\Release\Data Access Layer.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\Data Access Layer\obj\Release\Data Access Layer.pdb

@@ -1,0 +1,39 @@
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\bin\Debug\Data Access Layer.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\bin\Debug\ClassLibrary1.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\bin\Debug\Data Access Layer.pdb
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\obj\Debug\BussinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\SP\Documents\Visual Studio 2017\Projects\Time_Table\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\Data Access Layer.dll
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\Data Access Layer.pdb
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\SP\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\Data Access Layer.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\bin\Debug\Data Access Layer.pdb
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\Kasutaja\source\repos\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.dll.config
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\bin\Debug\BussinessLogic.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\bin\Debug\Data Access Layer.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\bin\Debug\Data Access Layer.pdb
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csprojAssemblyReference.cache
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.csproj.CopyComplete
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.dll
+C:\Users\eipntgu\Documents\Time Table\Web App\BussinessLogic\obj\Debug\BussinessLogic.pdb
